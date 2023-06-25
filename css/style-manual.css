@@ -1,0 +1,7 @@
+.bg-total{
+  background: linear-gradient(180deg, #b4bbf8 0%, #8896fe 50%);
+  color: #f8f8f8;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 30px;
+}
